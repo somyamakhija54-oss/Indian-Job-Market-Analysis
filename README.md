@@ -6,6 +6,12 @@ This project analyzes the Indian job market to identify trends in job postings, 
 
 The project uses **Python, SQL (SQLite), Excel, and Power BI** to clean, analyze, and visualize the job market data.
 
+## Dataset
+
+The cleaned dataset used in this project is available here:
+
+[Download Dataset]https://drive.google.com/file/d/1QwE3HX3o9N7MDu-3zFT4isZOOLOyeF4Z/view?usp=sharing
+
 ## 🛠️ Tools & Technologies
 
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
